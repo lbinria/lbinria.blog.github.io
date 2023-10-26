@@ -1,6 +1,6 @@
 # Welcome to TEXEL !
 
-Hello world from texel.
+Hello world from texel !
 
 ## Commands
 
