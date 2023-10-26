@@ -1,4 +1,4 @@
-# Welcome to TEXEL
+# Welcome to TEXEL !
 
 Hello world from texel.
 
