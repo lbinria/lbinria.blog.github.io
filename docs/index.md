@@ -15,3 +15,12 @@ Hello world from texel !
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Math test
+
+$\sum_{i=0}^n i*2 = w \newline$
+
+blabla
+
+$\exists x \in S : x < 0$
+
