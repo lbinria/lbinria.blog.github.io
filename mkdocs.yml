@@ -1,6 +1,9 @@
 site_name: Texul
 theme:
     name: material
+    palette:
+        primary: pink
+        
 markdown_extensions:
     - pymdownx.arithmatex:
         generic: true
